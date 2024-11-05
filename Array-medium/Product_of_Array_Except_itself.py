@@ -18,3 +18,5 @@ class Solution:
             right *= nums[i]
         
         return answer
+
+""" Here the time complexity is O(n) and time complexity is O(1) because here constant amount of space has been created for the extraa rray created."""
